@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nomadic-pathway-289014",
+  "private_key_id": "f47b7ed37c7cb6f980aa3332a6058d7fc98103b5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCg1YV0j5tzCiAk\nq2xTX0vC9l3ed9w0RJfdnHFzEqekkXAorbXmZunxn+NHmPLKH2sWcmIOeWmf2mPc\nzmpUDWvau3qa+tXpNEgazSqFLd0i66+dHBsXC/y8JzEy3J6pOyDDKyKev7G3I1XE\ni7rniuz5x6CaNbGYFvEmKQ96kWHuDN985Gkh2aLFK35p1vNp52yLUw8hRqQEM98X\nzKuDsfGCBiWDZc+t6/U8hOyIW1V4RFb4uJ2boxIixrxoY/BFx5VhrugA6y/MFcNh\n8IKq5ZMos2duK6fFYavm/WZNwV9KGpjL+ICxboZd2mt5WwJTuizZdsLRklXJqc8l\n0IspigoLAgMBAAECggEASYCrqBSFZ3LGM9v/+q4/ko9DYQuIIH8EpKv9kSiCYwxw\npLaWvgBkhB+dIDh/JO5s42pM8+563ipRnzTalSU5GFK7+p4OKrDRDyaaexj1yiLK\nNFQG8WZyD48dxe/btt2l4GwTO1fCIT9N0DBHr8/m81RPSoqlait59AWp5EsS5VZU\n5sfw8iVoyxeMTClyJ0VSYDsFmtyaCSIugoentHE/lKDyH1nMpCkI2vk8B5Gguibl\nV/nAHctbgnXUTyqTPiYuS+eF6GM2iMWrYhkBOaC+rexkPGSx/b9V8RJjNoYmZSPT\nCypd5IqGnjw8/XOVQDCB708+wUGEioAWybZJGkK/cQKBgQDYYnYqNHArtk4Q7LZI\nbiQ2HsHq7urmGFf+mjEOygECPoIbDy6sACO0ItLUSK67JxQtl3FH4f7kX+S+CRzh\nfN+vwQR5OgycD6F5K7pbOmXMpfyim0X+jQh0xITO15mlLygPr8y68T2YU5sRVnMj\nSFY9/Pa6yg6j8OXyTN7J/cGw8wKBgQC+R4Kq6cSN2XMy1vhsr0TNF1AW31qUkC/z\nfma+xLWB2dLxapmwkqFYzUyYd+a4zHXef41noIirxFvLZ5qG8euyXDZGz3m8njQh\n8FwXvb/0VeH9u8kratFF+CItEvpTDn37rZUknAHBhxuJeVKR1rcoMIkbqIAZGQ+d\naT9oh+pIiQKBgQCh+Ooc443HmrpK/vXft9qRTGq50kexHy3XHlJ0kI86v9GiMbYs\n+BnBwINydkmdPD5ldkRMm4WyK3nNKoMc4t2J8QDJQcOomiazziC8IzWKgAFhMrut\nNKLMzUHglxCizm69d0nX8ba6rHKaAs1C7uXnltCVt6RH4Y4u1o26Q6HWMwKBgQC7\ntbgF+49XkEjAwqlYLp9k47aymay2GnfzcaLSVyPn8YbTeiIbustI217QmpgVfj5Z\nPOO2cvvg11jnFFGxBj9KOQWiXVLu6/Lp+EAhe6M92uuScApItpu0ttCgPrSL8yP9\ngIQ9FVn2HN7hg7oc/QC6uQbJLjUQjVSGKSnQaSSKYQKBgC66TMI5jPw/ItuHUa80\nYDIy0LD5vICSryOEspbVkxjXCmOZXSEk3oVdTx3D3nGfVmt5aVd/jcgjIOofHe6t\nKCCJMax0UnND7J6numoeYtZjuxq3E00YYuzFBtyjM52umoBCGiV5nRqlII2dlt4C\npWFOjOVwsCCfgJYicCvRyO8z\n-----END PRIVATE KEY-----\n",
+  "client_email": "follower-tracker@nomadic-pathway-289014.iam.gserviceaccount.com",
+  "client_id": "104111483627399696582",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/follower-tracker%40nomadic-pathway-289014.iam.gserviceaccount.com"
+}
